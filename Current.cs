@@ -18,5 +18,9 @@ namespace Bank_Accounts{
 		}
 		
 		public decimal Balance { get { return balance; } }
+         public void Bal(){
+
+            Console.WriteLine("The balance in ur current account is {0}",balance);
+        }
 	}
 }

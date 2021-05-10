@@ -24,5 +24,10 @@ namespace Bank_Accounts
                 return balance;
             }
         }
+
+        public void Bal(){
+
+            Console.WriteLine("The balance in ur savings account is {0}",balance);
+        }
 	}
 }

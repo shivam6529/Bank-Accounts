@@ -13,15 +13,15 @@ namespace Bank_Accounts
             
             saving.Deposit(100);
             saving.Withdraw(10);
-            Console.WriteLine("Balance in your savings account is {0} ",saving.Balance);
+            saving.Bal();
             
             current.Deposit(110);
             current.Withdraw(30);
-            Console.WriteLine("Balance in your current account account is {0} ",current.Balance);
+            current.Bal();
             
             rrsp.Deposit(200);
             rrsp.Withdraw(20);  
-            Console.WriteLine("Balance in your reccuring deposit account is {0} ",rrsp.Balance);
+            rrsp.Bal();
 
             // IList<IAccount> accounts = new List<IAccount>();
             // accounts.Add(new Savings());
@@ -29,9 +29,9 @@ namespace Bank_Accounts
             // accounts.Add(new ReccuringDeposit());
 
             // foreach (var acc in accounts){
-            //     acc.Withdraw(100);
             //     acc.Deposit(500);
-            //     Console.WriteLine(acc.Balance);
+            //     acc.Withdraw(100);
+            //     acc.Bal();
             // }
         }
     }

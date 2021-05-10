@@ -17,5 +17,9 @@ namespace Bank_Accounts{
 		}
 		
 		public decimal Balance { get { return balance; } }
+         public void Bal(){
+
+            Console.WriteLine("The balance in ur reccuring deposit account is {0}",balance);
+        }
 	}
 }
