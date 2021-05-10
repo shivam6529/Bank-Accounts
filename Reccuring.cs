@@ -1,7 +1,7 @@
 using System;
 
 namespace Bank_Accounts{
-    class ReccuringDeposit : IAccount
+    class RecurringDeposit : IAccount
 	{
 		private decimal balance;
 		public void Deposit(decimal amount)

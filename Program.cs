@@ -9,7 +9,7 @@ namespace Bank_Accounts
         {
             IAccount saving = new Savings();
             IAccount current = new CurrentAccount();
-            IAccount rrsp = new ReccuringDeposit();
+            IAccount rrsp = new RecurringDeposit();
             
             saving.Deposit(100);
             saving.Withdraw(10);
