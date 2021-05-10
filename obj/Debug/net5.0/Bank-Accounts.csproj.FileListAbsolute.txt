@@ -1,0 +1,16 @@
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\Bank-Accounts.exe
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\Bank-Accounts.deps.json
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\Bank-Accounts.runtimeconfig.json
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\Bank-Accounts.runtimeconfig.dev.json
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\Bank-Accounts.dll
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\ref\Bank-Accounts.dll
+E:\Training2\db\Bank-Accounts\bin\Debug\net5.0\Bank-Accounts.pdb
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.csprojAssemblyReference.cache
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.AssemblyInfoInputs.cache
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.AssemblyInfo.cs
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.csproj.CoreCompileInputs.cache
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.dll
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\ref\Bank-Accounts.dll
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.pdb
+E:\Training2\db\Bank-Accounts\obj\Debug\net5.0\Bank-Accounts.genruntimeconfig.cache
